@@ -18,7 +18,6 @@ pytz
 scikit-learn
 scipy
 six
-sklearn
 sniffio
 starlette
 threadpoolctl
